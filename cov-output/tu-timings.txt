@@ -1,0 +1,15 @@
+Translation unit:
+1 -> C:/Users/duygumelis.DUYGUMELIS/OneDrive/Masaüstü/coverity/main.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 105
+cov-build invocation time (seconds): 110
+Translation unit:
+2 -> C:/Users/duygumelis.DUYGUMELIS/OneDrive/Masaüstü/coverity/hesaplayici.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 105
+cov-build invocation time (seconds): 110
+Translation unit:
+3 -> C:/Users/duygumelis.DUYGUMELIS/OneDrive/Masaüstü/coverity/dosya.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 105
+cov-build invocation time (seconds): 110

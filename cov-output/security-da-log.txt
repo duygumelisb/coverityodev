@@ -1,0 +1,4 @@
+C:/cov-analysis-win64-2024.6.1/bin/cov-security-da.exe --dir C:/Users/duygumelis.DUYGUMELIS/OneDrive/Masaüstü/coverity/cov-output 
+cov-security-da version 2024.6.1 on Windows 11 (Unknown Edition number 100), 64-bit (build 26100)
+Internal version numbers: d59b675bea p-2024.6-push-53
+

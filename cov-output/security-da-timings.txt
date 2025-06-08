@@ -1,0 +1,9 @@
+# Version: d59b675bea p-2024.6-push-53
+# Command Line: C:/cov-analysis-win64-2024.6.1/bin/cov-security-da.exe --dir C:/Users/duygumelis.DUYGUMELIS/OneDrive/Masaüstü/coverity/cov-output
+timer                         ms      calls
+-------------------------------------------
+cov_security_da::run          16          1
+
+activity                      ms      calls
+-------------------------------------------
+cov_security_da::run          16          1

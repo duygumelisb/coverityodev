@@ -1,0 +1,35 @@
+# Version: d59b675bea p-2024.6-push-53
+# Command Line: cov-build --dir cov-output gcc main.c hesaplayici.c dosya.c -o hatali_program.exe
+timer                                    ms      calls
+------------------------------------------------------
+cov-build                            109015          1
+  create_or_open emit DB                 15          1
+    open emit DB                          0          1
+  add_string_to_table                     0         11
+  addEmitFileName                         0          1
+  addEnvironmentVars                      0          1
+    add_string_to_table                   0         53
+  Prepare capture                         0          1
+  Running build command              107109          1
+  parse_xml_config_file                  16          1
+  generate_generic_compiler_map         406          1
+    handle_derived_compiler              15         16
+  SecurityDA                            407          1
+  TUInfo::getPrimarySFRow                 0          3
+  (left over)                          1062
+
+activity                                 ms      calls
+------------------------------------------------------
+cov-build                            109015          1
+parse_xml_config_file                    16          1
+create_or_open emit DB                   15          1
+open emit DB                              0          1
+add_string_to_table                       0         64
+addEmitFileName                           0          1
+addEnvironmentVars                        0          1
+Prepare capture                           0          1
+Running build command                107109          1
+generate_generic_compiler_map           406          1
+handle_derived_compiler                  15         16
+SecurityDA                              407          1
+TUInfo::getPrimarySFRow                   0          3
